@@ -1,9 +1,11 @@
 # Lead_Scoring-Case_study
 
-🎯 Project Overview
-This repository is part of a case study for the Postgraduate Certification in Data Science, Machine Learning, and AI, provided by IIIT Bangalore in collaboration with UpGrad.
-Case Study: Lead Scoring for X Education, an online platform offering courses for learners.
-Institution: IIIT Bangalore, in partnership with UpGrad.
+## 🎯 Project Overview
+This repository is part of an ongoing project for the Postgraduate Certification in Data Science, Machine Learning, and AI, provided by IIIT Bangalore in collaboration with UpGrad.
+
+📚 Case Study: Lead Scoring for X Education, an online platform offering courses for learners.
+
+🏫 Institution: IIIT Bangalore, in partnership with UpGrad.
 
 ## Problem Statement  
 A Company named X Education sells online courses to industry professionals. On any given day, many professionals who are interested in the courses land on their website and browse for courses.
